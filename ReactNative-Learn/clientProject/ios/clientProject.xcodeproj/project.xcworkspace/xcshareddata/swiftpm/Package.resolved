@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "zeotapcollect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zeotap/ZeotapCollect.git",
+      "state" : {
+        "revision" : "6aac4555b395a78f4bc64c2b4ca605cc61a36664",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
